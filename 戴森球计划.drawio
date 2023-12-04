@@ -1,9 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T16:06:37.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.5" etag="sC5WWbeiRZagKOEnPnB4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T16:13:59.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4W31bMTZb0P5dwtq9qGH" version="22.1.5" type="github">
   <diagram name="第 1 页" id="IT9x5pj-RK7VZ6SYPHBM">
-    <mxGraphModel>
+    <mxGraphModel dx="2901" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V3yH4vTu8a03FP8kJuQ6-1" target="V3yH4vTu8a03FP8kJuQ6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V3yH4vTu8a03FP8kJuQ6-1" target="V3yH4vTu8a03FP8kJuQ6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-1" value="铁矿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V3yH4vTu8a03FP8kJuQ6-2" target="V3yH4vTu8a03FP8kJuQ6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-2" value="铜矿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V3yH4vTu8a03FP8kJuQ6-3" target="V3yH4vTu8a03FP8kJuQ6-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V3yH4vTu8a03FP8kJuQ6-3" target="V3yH4vTu8a03FP8kJuQ6-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-3" value="铁块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V3yH4vTu8a03FP8kJuQ6-4" target="V3yH4vTu8a03FP8kJuQ6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-4" value="磁铁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V3yH4vTu8a03FP8kJuQ6-5" target="V3yH4vTu8a03FP8kJuQ6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-5" value="铜块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-11" value="磁线圈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-15" value="钢材" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-17" value="齿轮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V3yH4vTu8a03FP8kJuQ6-21" target="V3yH4vTu8a03FP8kJuQ6-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-21" value="石头" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-22" value="煤炭" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-23" value="石材" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V3yH4vTu8a03FP8kJuQ6-24" target="V3yH4vTu8a03FP8kJuQ6-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-24" value="硅石" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V3yH4vTu8a03FP8kJuQ6-21" target="V3yH4vTu8a03FP8kJuQ6-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-27" value="高能石墨" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V3yH4vTu8a03FP8kJuQ6-22" target="V3yH4vTu8a03FP8kJuQ6-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V3yH4vTu8a03FP8kJuQ6-29" target="V3yH4vTu8a03FP8kJuQ6-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-29" value="硅块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3yH4vTu8a03FP8kJuQ6-31" value="硅晶" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
